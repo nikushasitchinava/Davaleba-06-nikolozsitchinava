@@ -42,6 +42,7 @@ nav, ul, li, h1 {
 
 header {
 	background-color: #F1F1F1;
+	width: 3000px;
 	height: 60px;
  	position: fixed;
  	z-index: 3;
