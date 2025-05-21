@@ -15,7 +15,6 @@ nav, ul, li, h1 {
     "wdth" 100;
     font-size: 11px;
     font-weight: 700;
-    margin-right: 35px;
     color: #000000;
 }
 
@@ -23,10 +22,29 @@ nav, ul, li, h1 {
 .home {
 	margin-left: 137px;
 	margin-top: 21px;
+	margin-right: 35px;
+}
+
+
+.headertext {
+	margin-right: 35px;
+}
+
+
+.contact {
+	margin-right: 29px;
 }
 
 
 header {
 	background-color: grey;
-	height: 76px;
+	height: 60px;
+}
+
+
+li > img {
+	width: 32px;
+	height: 32px;
+	border-radius: 100px;
+	vertical-align: -11px;
 }
