@@ -363,3 +363,135 @@ li > img {
 	height: 212px;
 	border-radius: 5px;
 }
+
+
+
+
+
+footer {
+	background-color: #243043;
+	height: 201px;
+	margin-top: 36px;
+	position: relative;
+}
+
+
+
+.fotext1 {
+	width: 54px;
+	height: 100px;
+	position: absolute;
+	margin-left: 137px;
+	margin-top: 59px;
+}
+
+
+
+.fotext1 > h3 {
+	color: #818687;
+	font-weight: 700;
+ 	font-size: 12px;
+ 	font-family: "Roboto";
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    display: inline-block;
+    margin-bottom: 14px;
+}
+
+
+.fotext2 {
+	width: 54px;
+	height: 100px;
+	position: absolute;
+	margin-left: 266px;
+	margin-top: 59px;
+}
+
+
+
+.fotext2 > h3 {
+	color: #818687;
+	font-weight: 700;
+ 	font-size: 12px;
+ 	font-family: "Roboto";
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    display: inline-block;
+    margin-bottom: 14px;
+}
+
+
+.fotext3 {
+	width: 54px;
+	height: 100px;
+	position: absolute;
+	margin-left: 417px;
+	margin-top: 59px;
+}
+
+
+
+.fotext3 > h3 {
+	color: #818687;
+	font-weight: 700;
+ 	font-size: 12px;
+ 	font-family: "Roboto";
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    display: inline-block;
+    margin-bottom: 14px;
+}
+
+
+
+.fotext4 {
+	width: 249px;
+	height: 100px;
+	position: absolute;
+	margin-left: 599px;
+	margin-top: 59px;
+}
+
+
+
+.fotext4 > h3 {
+	color: #FFFFFF;
+	font-weight: 400;
+ 	font-size: 12px;
+ 	font-family: "Roboto";
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    display: inline-block;
+    margin-bottom: 14px;
+}
+
+
+
+.geolab {
+	width: 249px;
+	height: 100px;
+	position: absolute;
+	margin-left: 1264px;
+	margin-top: 59px;
+}
+
+
+
+.geolab > img {
+	width: 38px;
+	height: 40px;
+    display: inline-block;
+    margin-bottom: 14px;
+}
