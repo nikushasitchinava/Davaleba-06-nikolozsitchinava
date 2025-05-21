@@ -5,7 +5,7 @@
 
 
 
-header, nav, ul, li, h1 {
+nav, ul, li, h1 {
 	display: inline-block;
 	font-family: "Roboto";
     font-optical-sizing: auto;
@@ -23,4 +23,10 @@ header, nav, ul, li, h1 {
 .home {
 	margin-left: 137px;
 	margin-top: 21px;
+}
+
+
+header {
+	background-color: grey;
+	height: 76px;
 }
