@@ -93,6 +93,9 @@ li > img {
 
 
 
+/* Card 1 */
+
+
 
 .card {
 	width: 362px;
@@ -197,12 +200,7 @@ li > img {
 
 
 
-
-
-
-
-
-
+/* Card 2 and Card 3*/
 
 
 
@@ -298,9 +296,16 @@ li > img {
 
 
 
+
+/* Bunch of Photos in lower section of page*/
+
+
+
+
+
 .largephotodiv {
 	height: 902px;
-	height: 758;
+	width: 758;
 	margin-left: 138px;
 	margin-top: 30px;
 }
@@ -308,5 +313,18 @@ li > img {
 .bigphoto1 {
 	width: 758px;
 	height: 430px;
+	border-radius: 5px;
+}
+
+.bigphoto2 {
+	width: 758px;
+	height: 430px;
+	border-radius: 5px;
+	margin-top: 42px;
+}
+
+.smallphoto {
+	width: 362px;
+	height: 212px;
 	border-radius: 5px;
 }
