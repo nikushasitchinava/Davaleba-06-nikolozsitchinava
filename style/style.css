@@ -58,7 +58,7 @@ li > img {
 .tranding {
 	font-size: 24px;
 	font-weight: 700;
-	display: inline-block;
+	display: block;
 	font-family: "Roboto";
     font-optical-sizing: auto;
     font-weight: <weight>;
@@ -78,8 +78,9 @@ li > img {
 	height: 357px;
 	background-color: white;
 	border-radius: 5px;
-	margin-left: 138px;
+	margin-left: 40px;
 	position: relative;
+	display: inline-block;
 }
 
 
@@ -162,3 +163,16 @@ li > img {
     margin-top: 118px;
     display: inline-block;
 }
+
+
+
+.modifiedcard > .card {
+	width: 362px;
+	height: 357px;
+	background-color: white;
+	border-radius: 5px;
+	margin-left: 138px;
+	position: relative;
+}
+
+
