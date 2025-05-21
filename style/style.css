@@ -44,7 +44,7 @@ header {
 	background-color: #F1F1F1;
 	height: 60px;
  	position: fixed;
- 	z-index: 1;
+ 	z-index: 3;
  	top: 0;
 }
 
@@ -301,6 +301,23 @@ li > img {
 
 
 
+.largephotodiv > h3 {
+	font-size: 20px;
+	font-weight: 700;
+	position: absolute;
+	font-family: "Roboto";
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: #FFFFFF;
+    z-index: 1;
+    margin-top: 203px;
+    margin-left: 278px;
+}
+
+
 
 
 .largephotodiv {
@@ -363,6 +380,23 @@ li > img {
 	height: 212px;
 	border-radius: 5px;
 }
+
+
+
+
+
+
+
+
+
+
+/* Footer */
+
+
+
+
+
+
 
 
 
