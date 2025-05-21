@@ -55,6 +55,7 @@ li > img {
 
 
 
+
 .tranding {
 	font-size: 24px;
 	font-weight: 700;
@@ -71,6 +72,24 @@ li > img {
     margin-bottom: 27px;
 }
 
+.happeningnow {
+	font-size: 24px;
+	font-weight: 700;
+	display: block;
+	font-family: "Roboto";
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: #000000;
+    margin-left: 137px;
+    margin-top: 57px;
+    margin-bottom: 27px;
+}
+
+
+
 
 
 .card {
@@ -78,7 +97,7 @@ li > img {
 	height: 357px;
 	background-color: white;
 	border-radius: 5px;
-	margin-left: 40px;
+	margin-left: 138px;
 	position: relative;
 	display: inline-block;
 }
@@ -88,6 +107,8 @@ li > img {
 	width: 362px;
 	height: 186px;
 	position: static;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
 }
 
 
@@ -166,13 +187,111 @@ li > img {
 
 
 
-.modifiedcard > .card {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.card1 {
 	width: 362px;
 	height: 357px;
 	background-color: white;
 	border-radius: 5px;
-	margin-left: 138px;
+	margin-left: 40px;
 	position: relative;
+	display: inline-block;
+}
+
+
+.card1 > .photo {
+	width: 362px;
+	height: 186px;
+	position: static;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+}
+
+
+.card1 > h3 {
+	font-size: 20px;
+	font-weight: 700;
+	position: absolute;
+	font-family: "Roboto";
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: #FFFFFF;
+    margin-left: 41px;
+    margin-top: 32px;
+}
+
+
+.card1 > .text1 {
+	font-size: 10px;
+	font-weight: 700;
+	position: absolute;
+	font-family: "Roboto";
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: #8A8787;
+    margin-left: 37px;
+    margin-top: 68px;
+    margin-right: 87px;
+}
+
+.card1 > .text2 {
+	font-size: 10px;
+	font-weight: 700;
+	position: absolute;
+	font-family: "Roboto";
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: #8A8787;
+    margin-left: 37px;
+    margin-top: 89px;
+    margin-right: 87px;
+}
+
+
+.card1 > p {
+	font-size: 10px;
+	font-weight: 700;
+	position: absolute;
+	font-family: "Roboto";
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: #8A8787;
+    margin-left: 11px;
+    margin-top: 118px;
+    display: inline-block;
 }
 
 
