@@ -4,6 +4,10 @@
 }
 
 
+body {
+	background-color: #F1F1F1;
+}
+
 
 nav, ul, li, h1 {
 	display: inline-block;
@@ -37,7 +41,7 @@ nav, ul, li, h1 {
 
 
 header {
-	background-color: grey;
+	background-color: #F1F1F1;
 	height: 60px;
 }
 
@@ -48,3 +52,90 @@ li > img {
 	border-radius: 100px;
 	vertical-align: -11px;
 }
+
+
+
+.tranding {
+	font-size: 24px;
+	font-weight: 700;
+	display: inline-block;
+	font-family: "Roboto";
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: #000000;
+    margin-left: 137px;
+    margin-top: 15px;
+    margin-bottom: 27px;
+}
+
+
+
+.card {
+	width: 362px;
+	height: 357px;
+	background-color: grey;
+	border-radius: 5px;
+	margin-left: 138px;
+	position: relative;
+}
+
+
+.card > img {
+	width: 362px;
+	height: 186px;
+	position: static;
+}
+
+
+.card > h3 {
+	font-size: 20px;
+	font-weight: 700;
+	position: absolute;
+	font-family: "Roboto";
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: #FFFFFF;
+    margin-left: 41px;
+    margin-top: 32px;
+}
+
+
+.card > .text1 {
+	font-size: 10px;
+	font-weight: 700;
+	position: absolute;
+	font-family: "Roboto";
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: #FFFFFF;
+    margin-left: 37px;
+    margin-top: 68px;
+    margin-right: 87px;
+}
+
+.card > .text2 {
+	font-size: 10px;
+	font-weight: 700;
+	position: absolute;
+	font-family: "Roboto";
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: #FFFFFF;
+    margin-left: 37px;
+    margin-top: 89px;
+    margin-right: 87px;
+}
+
+
