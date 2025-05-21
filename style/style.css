@@ -309,28 +309,31 @@ li > img {
 	margin-left: 138px;
 	margin-top: 30px;
 	display: inline-block;
+	position: relative;
 }
 
 .bigphoto1 {
 	width: 758px;
 	height: 430px;
 	border-radius: 5px;
+	position: absolute;
 }
 
 .bigphoto2 {
 	width: 758px;
 	height: 430px;
 	border-radius: 5px;
-	margin-top: 42px;
-	display: block;
+	position: absolute;
+	margin-top: 472px;
 }
 
 .smallphoto {
 	width: 362px;
 	height: 212px;
 	border-radius: 5px;
+	position: absolute;
+	margin-left: 941px;
 }
-
 
 
 
