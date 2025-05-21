@@ -308,6 +308,7 @@ li > img {
 	width: 758;
 	margin-left: 138px;
 	margin-top: 30px;
+	display: inline-block;
 }
 
 .bigphoto1 {
@@ -321,6 +322,7 @@ li > img {
 	height: 430px;
 	border-radius: 5px;
 	margin-top: 42px;
+	display: block;
 }
 
 .smallphoto {
@@ -328,3 +330,12 @@ li > img {
 	height: 212px;
 	border-radius: 5px;
 }
+
+
+
+
+
+
+
+
+
