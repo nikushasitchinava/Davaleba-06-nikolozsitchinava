@@ -76,14 +76,14 @@ li > img {
 .card {
 	width: 362px;
 	height: 357px;
-	background-color: grey;
+	background-color: white;
 	border-radius: 5px;
 	margin-left: 138px;
 	position: relative;
 }
 
 
-.card > img {
+.card > .photo {
 	width: 362px;
 	height: 186px;
 	position: static;
@@ -116,7 +116,7 @@ li > img {
     font-style: normal;
     font-variation-settings:
     "wdth" 100;
-    color: #FFFFFF;
+    color: #8A8787;
     margin-left: 37px;
     margin-top: 68px;
     margin-right: 87px;
@@ -132,10 +132,33 @@ li > img {
     font-style: normal;
     font-variation-settings:
     "wdth" 100;
-    color: #FFFFFF;
+    color: #8A8787;
     margin-left: 37px;
     margin-top: 89px;
     margin-right: 87px;
 }
 
 
+.clock {
+	width: 16px;
+	height: 16px;
+	margin-left: 40px;
+	margin-top: 115px;
+}
+
+
+.card > p {
+	font-size: 10px;
+	font-weight: 700;
+	position: absolute;
+	font-family: "Roboto";
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: #8A8787;
+    margin-left: 11px;
+    margin-top: 118px;
+    display: inline-block;
+}
